@@ -7,6 +7,10 @@
 - Propriedades: Configurei o componente para receber uma matriz de objetos de produto como propriedade.
 - Renderização da Lista: Utilizei JSX para renderizar uma lista de produtos, mostrando nome e preço.
 
+## Evidência:
+![Imagem do WhatsApp de 2023-12-15 à(s) 16 28 37_6878fc53](https://github.com/joaopamarall/product-list-react/assets/103014937/00f64787-4c16-4961-acad-f3624265e0f2)
+
+
 ## Project setup
 ```
 npm install
